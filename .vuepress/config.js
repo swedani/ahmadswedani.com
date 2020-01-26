@@ -10,7 +10,7 @@ module.exports = {
       ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon-16x16.png" }],
       ['link', { rel: "manifest", href: "/site.webmanifest" }],
       ['link', { rel: "mask-icon", href: "/safari-pinned-tab.svg", color: "#5bbad5" }],
-      ['link', { rel: "shortcut icon", href: "https://ahmadmostafa.com/favicon.ico" }],
+      ['link', { rel: "shortcut icon", href: "https://swedani.netlify.com/favicon.ico" }],
       ['meta', { name: "msapplication-TileColor", content: "#da532c" }],
       ['meta', { name: "theme-color", content: "#ffffff" }],
     ],
@@ -35,15 +35,15 @@ module.exports = {
       bio:
         "Full stack software engineer"
     },
-   //disqus: "ahmadmostafa",
-    googleAnalytics: "UA-144752623-2",
+    disqus: "swedani",
+    googleAnalytics: "UA-156994869-1",
     sitemap: true,
-    hostname: "https://ahmadmostafa.com/",
+    hostname: "https://swedani.netlify.com/",
     socialShare: true,
     socialShareNetworks: ["twitter", "facebook"],
     footer: {
-     
-     // change your acc
+
+      // change your acc
       contact: [
         {
           type: "github",
