@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Ahmad Mostafa",
+  title: "Ahmad Swedani",
   description: "Full Stack Software Engineer",
   theme: "modern-blog",
   themeConfig: {
@@ -30,18 +30,20 @@ module.exports = {
       }
     ],
     about: {
-      fullName: "Ahmad Mostafa",
-      image: "/images/bg_1.png",
+      fullName: "Ahmad Swedani",
+      image: "/images/bg.png",
       bio:
-        "I'm a passionate, persistent, self-directed, autonomous learner Full Stack Software Engineer. I Enjoy building cool 😎 scalable ⏫ well designed 📐 fast 🚀 web and mobile apps using the cutting-edge languages and frameworks, I work with LOVE 🥰 and live by challenges."
+        "Full stack software engineer"
     },
-    disqus: "ahmadmostafa",
+   //disqus: "ahmadmostafa",
     googleAnalytics: "UA-144752623-2",
     sitemap: true,
     hostname: "https://ahmadmostafa.com/",
     socialShare: true,
     socialShareNetworks: ["twitter", "facebook"],
     footer: {
+     
+     // change your acc
       contact: [
         {
           type: "github",
