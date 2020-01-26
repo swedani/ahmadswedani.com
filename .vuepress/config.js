@@ -47,20 +47,21 @@ module.exports = {
       contact: [
         {
           type: "github",
-          link: "https://github.com/z3by/"
+          link: "https://github.com/swedani/"
         },
         {
           type: "instagram",
-          link: "https://instagram.com/z3bya/"
+          link: "https://instagram.com/dr.ahmad_swedan/"
         },
         {
           type: "facebook",
-          link: "https://facebook.com/ahmad.mostafa.z3by/"
+          link: "https://www.facebook.com/ahmad.kasim.7355"
         },
-        {
+        /* {
           type: "linkedin",
           link: "https://www.linkedin.com/in/z3by/"
         },
+        
         {
           type: "youtube",
           link: "https://www.youtube.com/channel/UC8fZybVYhEnCe1UwwVidVcg"
@@ -69,6 +70,7 @@ module.exports = {
           type: "twitter",
           link: "https://twitter.com/ahmad_mostafa10/"
         }
+        */
       ],
       copyright: [
         {
