@@ -23,11 +23,11 @@ module.exports = {
         link: "/",
         icon: 'el-icon-house'
       },
-      {
-        text: "Projects",
-        link: "/projects/",
-        icon: "el-icon-folder"
-      }
+      // {
+      //  text: "Projects",
+      //link: "/projects/",
+      //  icon: "el-icon-folder"
+      // }
     ],
     about: {
       fullName: "Ahmad Swedani",
