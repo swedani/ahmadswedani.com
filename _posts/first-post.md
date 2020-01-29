@@ -6,7 +6,7 @@ tags:
 - personal
 title: My first post
 description: Welcome to my website
-author: Ahmad Mostafa
+author: Ahmad swedani
 location: Amman-Jordan
 image: /images/hero.jpeg
 featured: false
