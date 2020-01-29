@@ -15,4 +15,4 @@ featured: false
 
 ## join to LTUC Coding scholarshop
 
-i have a scholarship in LTUC for code i will starting in 25/4/2020 
+I have a scholarship in LTUC for code i will starting in 25/4/2020 
