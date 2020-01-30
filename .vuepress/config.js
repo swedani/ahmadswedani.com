@@ -30,8 +30,8 @@ module.exports = {
       //  icon: "el-icon-folder"
       // }
       { 
-        text: 'About me',
-         link'http://swedani.netlify.com',
+        text: "About me",
+         link"http://swedani.netlify.com"
 
       },
     ],
