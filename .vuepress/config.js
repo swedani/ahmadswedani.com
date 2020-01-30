@@ -3,6 +3,15 @@ module.exports = {
   description: "Full Stack Software Engineer",
   theme: "modern-blog",
   themeConfig: {
+    nav: [
+        { text: 'Home', link'/'}
+        { text: 'facebook', link'https://github.com/swedani'}
+        { text: 'github', link'https://github.com/swedani'}
+        { text: 'instgram', link'https://instagram.com/dr.ahmad_swedan'}
+        { text: 'About me', link'http://swedani.netlify.com'}
+
+
+     ]
     head: [
       ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png" }],
       ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/favicon-32x32.png" }],
