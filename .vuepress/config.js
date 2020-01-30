@@ -33,7 +33,7 @@ module.exports = {
         text: 'About me',
          link'http://swedani.netlify.com',
 
-      }
+      },
     ],
     about: {
       fullName: "Ahmad Swedani",
