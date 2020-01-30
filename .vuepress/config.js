@@ -70,7 +70,7 @@ module.exports = {
           type: "linkedin",
           link: "https://www.linkedin.com/in/z3by/"
         },
-        
+
         {
           type: "youtube",
           link: "https://www.youtube.com/channel/UC8fZybVYhEnCe1UwwVidVcg"
