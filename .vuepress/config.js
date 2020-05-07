@@ -47,30 +47,30 @@ module.exports = {
       contact: [
         {
           type: "github",
-          link: "https://github.com/swedani/"
+          link: "https://github.com/ahmad-swedani"
         },
         {
           type: "instagram",
-          link: "https://instagram.com/dr.ahmad_swedan/"
+          link: "https://www.instagram.com/ahmad.swedani/"
         },
         {
           type: "facebook",
-          link: "https://www.facebook.com/ahmad.kasim.7355"
+          link: "https://web.facebook.com/ahmadswedani2020"
         },
-        /* {
+         {
           type: "linkedin",
-          link: "https://www.linkedin.com/in/z3by/"
+          link: "https://www.linkedin.com/in/ahmadswedani/"
         },
         
         {
-          type: "youtube",
-          link: "https://www.youtube.com/channel/UC8fZybVYhEnCe1UwwVidVcg"
-        },
-        {
           type: "twitter",
-          link: "https://twitter.com/ahmad_mostafa10/"
+          link: "https://twitter.com/ahmad_swedani_"
         }
-        */
+        // {
+        //   type: "youtube",
+        //   link: "https://www.youtube.com/channel/UC8fZybVYhEnCe1UwwVidVcg"
+        // },
+        
       ],
       copyright: [
         {
