@@ -33,7 +33,7 @@ module.exports = {
       fullName: "Ahmad Swedani",
       image: "/images/bg.png",
       bio:
-        "Full stack software engineer"
+        "I am passionate, persistent, autonomous learner Full Stack Software Engineer, cope with change positively, Life for me is challenges and coding faster."
     },
     disqus: "swedani",
     googleAnalytics: "UA-156994869-1",
